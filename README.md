@@ -1,2 +1,1 @@
-# deep-dive-resume
-Resume Template for Deep Dive
+Hi I'm Gigi!
